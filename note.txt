@@ -2,5 +2,6 @@
 
 - púsh code từ local lên remote: 3 bước
 + chọn: git add -A ( hit status : show thông tin)
-+ xác nhận
-+ đẩy
++ xác nhận: git commit -m "nội dung commit"
++ đẩy: lần đầu ~ git push -u origin master
+       lần 2 trở lên ~ git push

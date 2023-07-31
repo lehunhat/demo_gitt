@@ -5,3 +5,8 @@
 + xác nhận: git commit -m "nội dung commit"
 + đẩy: lần đầu ~ git push -u origin master
        lần 2 trở lên ~ git push
+
+
+* Branch
+ - tạo nhánh: git checkout -b login
+ - chuyển nhánh: git checkout master
